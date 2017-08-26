@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OpenClose.Guns
 {
-    abstract class Gun
+    public abstract class Gun
     {
         public abstract void Attack();
     }

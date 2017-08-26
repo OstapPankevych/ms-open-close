@@ -7,7 +7,7 @@ using OpenClose.Guns;
 
 namespace OpenClose.Mechanisms
 {
-    class MilitaryCar
+    public class MilitaryCar
     {
         private Gun _gun;
 

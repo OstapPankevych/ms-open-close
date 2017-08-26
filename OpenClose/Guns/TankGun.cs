@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OpenClose.Guns
 {
-    class TankGun: Gun
+    public class TankGun: Gun
     {
         public override void Attack()
         {
